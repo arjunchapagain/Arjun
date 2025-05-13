@@ -24,7 +24,7 @@ Hi! I'm Arjun — I hold a Master’s in IT (with a focus on Data Science) and a
 
 - **Languages**: Python, SQL, HTML/CSS
 - **Tools**: Pandas, NumPy, Matplotlib, Seaborn, Git/GitHub, Excel
-- **Data Visualization**: Power BI (learning), Tableau (learning)
+- **Data Visualization**: Power BI , Tableau 
 - **Soft Skills**: Problem solving, communication, adaptability
 
 ---
@@ -32,9 +32,9 @@ Hi! I'm Arjun — I hold a Master’s in IT (with a focus on Data Science) and a
 ## 📫 Contact Me
 
 - LinkedIn: [Your LinkedIn URL]
-- Email: [your.email@example.com]
+- Email: [championarjun27@gmail.com]
 - GitHub: [github.com/arjunchapagain](https://github.com/arjunchapagain)
 
 ---
 
-🚀 *Currently working on my first set of data analytics projects — stay tuned!*
+🚀 *stay Tuned!*
