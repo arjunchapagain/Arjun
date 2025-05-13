@@ -8,7 +8,7 @@ Hi! I'm Arjun — I hold a Master’s in IT (with a focus on Data Science) and a
 
 ## 📄 Resume
 
-🔗 [Download My Resume](./Arjun_Resume.pdf)
+🔗 [Download My Resume](./)
 
 ---
 
@@ -31,7 +31,7 @@ Hi! I'm Arjun — I hold a Master’s in IT (with a focus on Data Science) and a
 
 ## 📫 Contact Me
 
-- LinkedIn: [Your LinkedIn URL]
+- LinkedIn: [https://www.linkedin.com/in/arjun-chapagain/]
 - Email: [championarjun27@gmail.com]
 - GitHub: [github.com/arjunchapagain](https://github.com/arjunchapagain)
 
